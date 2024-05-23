@@ -1,2 +1,2 @@
 # Masood-demo
-# authour is Masood Khan
+Authour is Masood Khan
